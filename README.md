@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lilianglaoding
 - 👀 I’m interested in C/C++/Swift/SwiftUI/Android/IOS
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on ios development
+- 🌱 I’m currently learning Electron
+- 💞️ I’m looking to collaborate on Electron + React + TypeScript development
 - 📫 How to reach me liliang8904@126.com
 
 <!---
